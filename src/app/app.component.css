@@ -1,0 +1,18 @@
+
+div{
+    padding: 15px;
+    background-color: saddlebrown;
+    border-radius: 10px;   
+}
+
+h1 {
+    display: flex;
+    color: saddlebrown;
+    justify-content: center;
+}
+
+ h2, p{
+    display: flex;
+    justify-content: center;
+    color: #ffff;
+}
